@@ -16,16 +16,16 @@ The KBoard is a simple RP2040 devboard designed from the guide!! I made some cha
 
 ## Final Design
 
-![Front](https://github.com/KaushikDuddala/KBoard/blob/main/Images/final1front.png?raw=true)  
-![Back 1](https://github.com/KaushikDuddala/KBoard/blob/main/Images/final1back.png?raw=true)  
-![Back 2](https://github.com/KaushikDuddala/KBoard/blob/main/Images/final2back.png?raw=true)
+![Front](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/final1front.png?raw=true)  
+![Back 1](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/final1back.png?raw=true)  
+![Back 2](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/final2back.png?raw=true)
 
 ## PCB Design
 
-![PCB Front](https://github.com/KaushikDuddala/KBoard/blob/main/Images/pcbFront.png?raw=true)  
-![PCB Back](https://github.com/KaushikDuddala/KBoard/blob/main/Images/pcbBack.png?raw=true)  
-![PCB Total](https://github.com/KaushikDuddala/KBoard/blob/main/Images/pcbTotal.png?raw=true)  
-![Schematic](https://github.com/KaushikDuddala/KBoard/blob/main/Images/schematic.png?raw=true)
+![PCB Front](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/pcbFront.png?raw=true)  
+![PCB Back](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/pcbBack.png?raw=true)  
+![PCB Total](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/pcbTotal.png?raw=true)  
+![Schematic](https://github.com/KaushikDuddala/KBoardV1/blob/main/Images/schematic.png?raw=true)
 
 ## Bill of Materials (BOM)
 
